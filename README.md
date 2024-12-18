@@ -26,4 +26,14 @@ We could also be ending up on some logistic regression but the optimistic view o
 
 ### Todo
 
-- build a possible network of airport pairs for VTZ besties identification. find a historical search api.
+- build a possible network of airport pairs for VTZ besties identification. find a historical search api. [update: data collected]
+
+#### Support
+
+If you love the design and want to support me, you can buy me a book :)
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vizagite" target="_blank">
+    <img src="https://images-boson.vercel.app/buymebook.png" alt="Buy Me a Book" style="height: 35px;">
+  </a>
+</p>
